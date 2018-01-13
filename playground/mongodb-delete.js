@@ -7,7 +7,7 @@ if(err)
 	}
 	console.log('Connected to MongoDB server');
 	
-	//delete Many
+	
 /*
 	db.collection('Todos').deleteMany({text:"Eating launch"}).then((result)=>{
 	console.log(result);	
