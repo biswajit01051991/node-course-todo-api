@@ -10,7 +10,7 @@
   },
   "engines":{
   "node":"8.9.4"
-  }
+  },
   "author": "Biswajit Singha",
   "license": "ISC",
   "dependencies": {
